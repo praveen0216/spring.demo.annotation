@@ -11,6 +11,4 @@ public class HappyFortuneService implements FortuneService {
 		return "HappyFortuneService: Today is your lucky day";
 	}
 
-	
-
 }
